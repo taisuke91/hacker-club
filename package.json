@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "next build",
-    "dev": "next dev",
+    "build": "source ~/.nvm/nvm.sh && nvm use && next build",
+    "dev": "source ~/.nvm/nvm.sh && nvm use && next dev",
     "lint": "eslint .",
-    "start": "next start"
+    "start": "source ~/.nvm/nvm.sh && nvm use && next start"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",

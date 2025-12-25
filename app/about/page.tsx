@@ -1,4 +1,4 @@
-import { MapPin, Wallet, Calendar, Users, Mail, ArrowLeft } from "lucide-react"
+import { MapPin, Wallet, Calendar, Users, Mail, ArrowLeft, MessageSquare } from "lucide-react"
 import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
@@ -11,15 +11,14 @@ export default function AboutPage() {
       <CodeBackground />
       <Header />
 
-      <div className="relative z-10 container mx-auto px-4 py-12">
-        <Link href="/">
-          <Button variant="ghost" className="mb-8 text-muted-foreground hover:text-primary font-mono">
-            <ArrowLeft className="mr-2 h-4 w-4" />
-            ホームに戻る
-          </Button>
-        </Link>
-
+      <div className="relative z-10 container mx-auto px-4 pt-24 pb-12">
         <div className="max-w-4xl mx-auto">
+          <Link href="/">
+            <Button variant="ghost" className="mb-8 text-muted-foreground hover:text-foreground font-mono">
+              <ArrowLeft className="mr-2 h-4 w-4" />
+              ホームに戻る
+            </Button>
+          </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
               <span className="text-primary font-mono text-sm">{">"} About Us</span>
@@ -232,8 +231,17 @@ export default function AboutPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4">
                   <a
-                    href="mailto:contact@todai-hacker.club"
+                    href="https://forms.gle/bUrTwYd9zCcD7LESA"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
+                  >
+                    <MessageSquare className="h-5 w-5" />
+                    Slackに参加する
+                  </a>
+                  <a
+                    href="mailto:contact@todai-hacker.club"
+                    className="flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
                   >
                     <Mail className="h-5 w-5" />
                     contact@todai-hacker.club

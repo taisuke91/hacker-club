@@ -11,15 +11,14 @@ export default function HackathonPage() {
       <CodeBackground />
       <Header />
 
-      <div className="relative z-10 container mx-auto px-4 py-12">
-        <Link href="/">
-          <Button variant="ghost" className="mb-8 text-muted-foreground hover:text-primary font-mono">
-            <ArrowLeft className="mr-2 h-4 w-4" />
-            ホームに戻る
-          </Button>
-        </Link>
-
+      <div className="relative z-10 container mx-auto px-4 pt-24 pb-12">
         <div className="max-w-4xl mx-auto">
+          <Link href="/activities">
+            <Button variant="ghost" className="mb-8 text-muted-foreground hover:text-foreground font-mono">
+              <ArrowLeft className="mr-2 h-4 w-4" />
+              活動一覧に戻る
+            </Button>
+          </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
               <span className="text-primary font-mono text-sm">{">"} Activities</span>

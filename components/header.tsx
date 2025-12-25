@@ -1,9 +1,9 @@
 import Link from "next/link"
-import { Terminal } from "lucide-react"
+import { Terminal, MessageSquare } from "lucide-react"
 
 export function Header() {
   return (
-    <header className="relative z-10 border-b border-border/50 backdrop-blur-sm">
+    <header className="fixed top-0 left-0 right-0 z-50 border-b border-border/50 backdrop-blur-sm bg-[oklch(0.18_0_0)]/80">
       <div className="container mx-auto px-4 py-6">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
@@ -12,26 +12,23 @@ export function Header() {
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             <Link
-              href="/activities/cybersecurity"
+              href="/activities"
               className="text-foreground hover:text-primary transition-colors font-mono text-sm"
             >
-              サイバーセキュリティ
-            </Link>
-            <Link
-              href="/activities/ctf"
-              className="text-foreground hover:text-primary transition-colors font-mono text-sm"
-            >
-              CTF
-            </Link>
-            <Link
-              href="/activities/hackathon"
-              className="text-foreground hover:text-primary transition-colors font-mono text-sm"
-            >
-              ハッカソン
+              活動内容
             </Link>
             <Link href="/about" className="text-foreground hover:text-primary transition-colors font-mono text-sm">
               サークル情報
             </Link>
+            <a
+              href="https://forms.gle/bUrTwYd9zCcD7LESA"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-1.5 px-4 py-2 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono text-sm"
+            >
+              <MessageSquare className="h-4 w-4" />
+              Slack参加
+            </a>
           </nav>
         </div>
       </div>
