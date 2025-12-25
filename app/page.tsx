@@ -1,4 +1,5 @@
-import { Terminal, Shield, Trophy, Code2, MapPin, Wallet, Mail, MessageSquare } from "lucide-react"
+import { Shield, Trophy, Code2, MapPin, Wallet, Mail, MessageSquare } from "lucide-react"
+import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { CodeBackground } from "@/components/code-background"
@@ -16,9 +17,6 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative z-10 container mx-auto px-4 pt-24 pb-20 md:pt-32 md:pb-32">
         <div className="max-w-4xl mx-auto text-center">
-          <div className="inline-block mb-6 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-            <span className="text-primary font-mono text-sm">{">"} Tokyo University Hacker Club</span>
-          </div>
           <h2 className="text-4xl md:text-6xl font-bold mb-6 text-balance">
             <span className="text-foreground">ハッカーとして、</span>
             <br />
@@ -32,7 +30,7 @@ export default function Home() {
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="/about">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 font-mono">
-                <Terminal className="mr-2 h-5 w-5" />
+                <Image src="/logo.png" alt="ロゴ" width={20} height={20} className="mr-2 h-5 w-5" />
                 サークル紹介
               </Button>
             </Link>
@@ -157,17 +155,6 @@ export default function Home() {
               </CardContent>
             </Card>
           </div>
-          <div className="mt-6 flex justify-center">
-            <a
-              href="https://forms.gle/bUrTwYd9zCcD7LESA"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
-            >
-              <MessageSquare className="h-5 w-5" />
-              Slackに参加する
-            </a>
-          </div>
         </div>
       </section>
 
@@ -218,7 +205,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-border/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-muted-foreground text-sm font-mono">
-            {"<>"} 東大Hacker研究会 | Tokyo University Hacker Club {"</>"}
+            {"<>"} 東大Hacker同好会 | Tokyo University Hacker Club {"</>"}
           </p>
         </div>
       </footer>

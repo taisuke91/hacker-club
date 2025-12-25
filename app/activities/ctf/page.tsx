@@ -46,7 +46,7 @@ export default function CTFPage() {
                   様々な分野の問題を解いてポイントを獲得し、順位を競います。
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  私たちの研究会では、CTFの勉強会を定期的に開催し、国内外の大会に積極的に参加しています。
+                  私たちの同好会では、CTFの勉強会を定期的に開催し、国内外の大会に積極的に参加しています。
                   初心者向けの基礎的な問題から、上級者向けの高難易度問題まで、段階的にスキルアップできる環境を整えています。
                 </p>
               </CardContent>

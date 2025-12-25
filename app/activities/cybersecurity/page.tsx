@@ -42,7 +42,7 @@ export default function CybersecurityPage() {
                 </h2>
                 <p className="text-muted-foreground leading-relaxed mb-4">
                   現代の情報化社会において、サイバーセキュリティは国家レベルから個人レベルまで、あらゆる場面で重要性を増しています。
-                  私たちの研究会では、技術的なセキュリティ対策から、情報戦・認知戦といった戦略的な側面まで、
+                  私たちの同好会では、技術的なセキュリティ対策から、情報戦・認知戦といった戦略的な側面まで、
                   幅広い知識とスキルを身につけることができます。
                 </p>
                 <p className="text-muted-foreground leading-relaxed">

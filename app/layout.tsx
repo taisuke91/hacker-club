@@ -12,21 +12,20 @@ export const metadata: Metadata = {
   description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
   generator: "v0.app",
   icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
+  openGraph: {
+    title: "東大Hacker研究会 | Tokyo University Hacker Club",
+    description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
+    images: ["/logo.png"],
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "東大Hacker研究会 | Tokyo University Hacker Club",
+    description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
+    images: ["/logo.png"],
   },
 }
 

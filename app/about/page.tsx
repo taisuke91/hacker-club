@@ -25,7 +25,7 @@ export default function AboutPage() {
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">サークル情報</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              東大Hacker研究会について、詳しくご紹介します
+              東大Hacker同好会について、詳しくご紹介します
             </p>
           </div>
 
@@ -33,10 +33,10 @@ export default function AboutPage() {
             <Card className="bg-card/50 border-border/50 backdrop-blur-sm">
               <CardContent className="p-8">
                 <h2 className="text-2xl font-bold mb-4 text-card-foreground">
-                  <span className="text-primary font-mono">// </span>東大Hacker研究会とは
+                  <span className="text-primary font-mono">// </span>東大Hacker同好会とは
                 </h2>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  東大Hacker研究会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。
+                  東大Hacker同好会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。
                   「ハッカー」という言葉には、高度な技術力を持ち、創造的に問題を解決する人という本来の意味があります。
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
@@ -185,7 +185,7 @@ export default function AboutPage() {
                   <span className="text-primary font-mono">// </span>入会について
                 </h2>
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  東大Hacker研究会は、年間を通じて新規メンバーを募集しています。
+                  東大Hacker同好会は、年間を通じて新規メンバーを募集しています。
                   プログラミング経験がなくても、学ぶ意欲があれば大歓迎です。
                 </p>
                 <div className="bg-primary/5 border border-primary/20 rounded-lg p-6">
