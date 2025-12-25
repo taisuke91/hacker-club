@@ -245,7 +245,7 @@ export default function AboutPage() {
                       className="w-full sm:w-[calc(50%-0.5rem)] flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
                     >
                       <MessageSquare className="h-5 w-5" />
-                      Slackに参加する
+                      Discordに参加する(入会する)
                     </a>
                   </div>
                   <div className="flex flex-col sm:flex-row gap-4">

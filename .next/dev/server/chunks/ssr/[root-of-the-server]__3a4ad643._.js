@@ -307,7 +307,7 @@ function Header() {
                                         lineNumber: 30,
                                         columnNumber: 15
                                     }, this),
-                                    "Slack参加"
+                                    "Discordに参加"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/hacker-club/components/header.tsx",
@@ -499,7 +499,7 @@ function Home() {
                                         lineNumber: 53,
                                         columnNumber: 15
                                     }, this),
-                                    "Slackに参加する"
+                                    "Discordに参加する(入会する)"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/Desktop/hacker-club/app/page.tsx",
@@ -985,7 +985,7 @@ function Home() {
                                                     lineNumber: 178,
                                                     columnNumber: 19
                                                 }, this),
-                                                "Slackに参加する"
+                                                "Discordに参加する(入会する)"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/Desktop/hacker-club/app/page.tsx",
