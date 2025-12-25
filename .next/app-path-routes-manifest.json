@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/activities/ctf/page": "/activities/ctf",
+  "/activities/cybersecurity/page": "/activities/cybersecurity",
+  "/activities/hackathon/page": "/activities/hackathon",
+  "/activities/page": "/activities",
+  "/page": "/"
+}

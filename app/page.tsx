@@ -1,5 +1,4 @@
-import { Shield, Trophy, Code2, MapPin, Wallet, Mail, MessageSquare } from "lucide-react"
-import Image from "next/image"
+import { Terminal, Shield, Trophy, Code2, MapPin, Wallet, Mail, MessageSquare } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { CodeBackground } from "@/components/code-background"
@@ -30,7 +29,7 @@ export default function Home() {
           <div className="flex flex-wrap justify-center gap-4">
             <Link href="/about">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 font-mono">
-                <Image src="/logo.png" alt="ロゴ" width={20} height={20} className="mr-2 h-5 w-5" />
+                <Terminal className="mr-2 h-5 w-5" />
                 サークル紹介
               </Button>
             </Link>

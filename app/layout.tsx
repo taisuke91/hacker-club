@@ -8,6 +8,10 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL(
+    process.env.NEXT_PUBLIC_SITE_URL ||
+    (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "https://v0-tokyo-university-hacker-club.vercel.app")
+  ),
   title: "東大Hacker研究会 | Tokyo University Hacker Club",
   description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
   generator: "v0.app",

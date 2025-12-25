@@ -1,0 +1,3 @@
+module.exports=[6127,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(45191);a.n(d("[project]/Desktop/hacker-club/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},14775,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(45191);a.n(d("[project]/Desktop/hacker-club/node_modules/next/dist/client/components/builtin/global-error.js"))},20659,a=>{"use strict";a.i(6127);var b=a.i(14775);a.n(b)}];
+
+//# sourceMappingURL=2fc64_next_dist_client_components_builtin_global-error_a45f2330.js.map
