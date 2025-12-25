@@ -167,34 +167,35 @@ export default function Home() {
             <p className="text-center text-muted-foreground mb-8 leading-relaxed">
               活動に興味がある方、質問がある方はお気軽にご連絡ください
             </p>
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <a
-                href="https://forms.gle/bUrTwYd9zCcD7LESA"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
-              >
-                <MessageSquare className="h-5 w-5" />
-                Slackに参加する
-              </a>
-              <a
-                href="mailto:contact@todai-hacker.club"
-                className="flex items-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
-              >
-                <Mail className="h-5 w-5" />
-                contact@todai-hacker.club
-              </a>
-              <a
-                href="https://twitter.com/todai_hacker"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
-              >
-                <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
-                  <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                </svg>
-                @todai_hacker
-              </a>
+            <div className="flex flex-col gap-4">
+              <div className="flex justify-center">
+                <a
+                  href="https://forms.gle/bUrTwYd9zCcD7LESA"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-full sm:w-[calc(50%-0.5rem)] flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
+                >
+                  <MessageSquare className="h-5 w-5" />
+                  Slackに参加する
+                </a>
+              </div>
+              <div className="flex flex-col sm:flex-row gap-4">
+                <div className="flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg font-mono">
+                  <Mail className="h-5 w-5" />
+                  contact@todai-hacker.club
+                </div>
+                <a
+                  href="https://twitter.com/todai_hacker"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
+                >
+                  <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
+                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                  </svg>
+                  @todai_hacker
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -204,7 +205,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-border/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-muted-foreground text-sm font-mono">
-            {"<>"} 東大Hacker同好会 | Tokyo University Hacker Club {"</>"}
+            {"<>"} 東大Hacker研究会 | Tokyo University Hacker Club {"</>"}
           </p>
         </div>
       </footer>

@@ -440,7 +440,7 @@ function AboutPage() {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "text-xl text-muted-foreground leading-relaxed",
-                                    children: "東大Hacker同好会について、詳しくご紹介します"
+                                    children: "東大Hacker研究会について、詳しくご紹介します"
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                     lineNumber: 27,
@@ -471,19 +471,56 @@ function AboutPage() {
                                                         lineNumber: 36,
                                                         columnNumber: 19
                                                     }, this),
-                                                    "東大Hacker同好会とは"
+                                                    "東大Hacker研究会とは"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                 lineNumber: 35,
                                                 columnNumber: 17
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-muted-foreground leading-relaxed mb-4",
-                                                children: "東大Hacker同好会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。 「ハッカー」という言葉には、高度な技術力を持ち、創造的に問題を解決する人という本来の意味があります。"
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-sm",
+                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                                                    className: "space-y-1 text-muted-foreground",
+                                                    children: [
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                            children: "団体名：東大Hacker研究会"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                            lineNumber: 40,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                            children: "設立：2025年12月"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                            lineNumber: 41,
+                                                            columnNumber: 21
+                                                        }, this),
+                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                            children: "メールアドレス：contact@todai-hacker.club"
+                                                        }, void 0, false, {
+                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                            lineNumber: 42,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    ]
+                                                }, void 0, true, {
+                                                    fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                    lineNumber: 39,
+                                                    columnNumber: 19
+                                                }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                 lineNumber: 38,
+                                                columnNumber: 17
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                className: "text-muted-foreground leading-relaxed mb-4",
+                                                children: "東大Hacker研究会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。 「ハッカー」という言葉には、高度な技術力を持ち、創造的に問題を解決する人という本来の意味があります。"
+                                            }, void 0, false, {
+                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                lineNumber: 45,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -491,7 +528,7 @@ function AboutPage() {
                                                 children: "私たちは、サイバーセキュリティ、情報戦、認知戦の研究、CTF大会への参加、ハッカソンでのプロダクト開発を通じて、 技術の最前線で活躍できるエンジニアを目指しています。学年や専攻を問わず、技術に情熱を持つ仲間が集まっています。"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 42,
+                                                lineNumber: 49,
                                                 columnNumber: 17
                                             }, this)
                                         ]
@@ -521,12 +558,12 @@ function AboutPage() {
                                                                 className: "h-6 w-6 text-primary"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 54,
+                                                                lineNumber: 61,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 53,
+                                                            lineNumber: 60,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -536,7 +573,7 @@ function AboutPage() {
                                                                     children: "活動費"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 57,
+                                                                    lineNumber: 64,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -544,7 +581,7 @@ function AboutPage() {
                                                                     children: "¥0"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 58,
+                                                                    lineNumber: 65,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -552,29 +589,29 @@ function AboutPage() {
                                                                     children: "入会費・年会費などは一切かかりません。完全無料で参加できます。"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 59,
+                                                                    lineNumber: 66,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 56,
+                                                            lineNumber: 63,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                    lineNumber: 52,
+                                                    lineNumber: 59,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 51,
+                                                lineNumber: 58,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                            lineNumber: 50,
+                                            lineNumber: 57,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -590,12 +627,12 @@ function AboutPage() {
                                                                 className: "h-6 w-6 text-primary"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 71,
+                                                                lineNumber: 78,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 70,
+                                                            lineNumber: 77,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -605,53 +642,12 @@ function AboutPage() {
                                                                     children: "活動場所"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 74,
+                                                                    lineNumber: 81,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                                     className: "space-y-2 text-muted-foreground",
                                                                     children: [
-                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                                                            className: "flex items-start gap-2",
-                                                                            children: [
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
-                                                                                    children: "▸"
-                                                                                }, void 0, false, {
-                                                                                    fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 77,
-                                                                                    columnNumber: 27
-                                                                                }, this),
-                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                                    children: [
-                                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                            className: "font-semibold text-foreground",
-                                                                                            children: "学生会館"
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                            lineNumber: 79,
-                                                                                            columnNumber: 29
-                                                                                        }, this),
-                                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                            className: "text-xs",
-                                                                                            children: "定期勉強会・ミーティング"
-                                                                                        }, void 0, false, {
-                                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                            lineNumber: 80,
-                                                                                            columnNumber: 29
-                                                                                        }, this)
-                                                                                    ]
-                                                                                }, void 0, true, {
-                                                                                    fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 78,
-                                                                                    columnNumber: 27
-                                                                                }, this)
-                                                                            ]
-                                                                        }, void 0, true, {
-                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 76,
-                                                                            columnNumber: 25
-                                                                        }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
@@ -667,7 +663,7 @@ function AboutPage() {
                                                                                     children: [
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                             className: "font-semibold text-foreground",
-                                                                                            children: "ビズリーチキャンパスカフェ"
+                                                                                            children: "学生会館"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                                             lineNumber: 86,
@@ -675,7 +671,7 @@ function AboutPage() {
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                                             className: "text-xs",
-                                                                                            children: "ハッカソン・集中開発"
+                                                                                            children: "定期勉強会・ミーティング"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                                             lineNumber: 87,
@@ -692,33 +688,74 @@ function AboutPage() {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                             lineNumber: 83,
                                                                             columnNumber: 25
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                                                            className: "flex items-start gap-2",
+                                                                            children: [
+                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
+                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    children: "▸"
+                                                                                }, void 0, false, {
+                                                                                    fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                                    lineNumber: 91,
+                                                                                    columnNumber: 27
+                                                                                }, this),
+                                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                                    children: [
+                                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                            className: "font-semibold text-foreground",
+                                                                                            children: "ビズリーチキャンパスカフェ"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                                            lineNumber: 93,
+                                                                                            columnNumber: 29
+                                                                                        }, this),
+                                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                                            className: "text-xs",
+                                                                                            children: "ハッカソン・集中開発"
+                                                                                        }, void 0, false, {
+                                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                                            lineNumber: 94,
+                                                                                            columnNumber: 29
+                                                                                        }, this)
+                                                                                    ]
+                                                                                }, void 0, true, {
+                                                                                    fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                                    lineNumber: 92,
+                                                                                    columnNumber: 27
+                                                                                }, this)
+                                                                            ]
+                                                                        }, void 0, true, {
+                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                            lineNumber: 90,
+                                                                            columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 75,
+                                                                    lineNumber: 82,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 73,
+                                                            lineNumber: 80,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                    lineNumber: 69,
+                                                    lineNumber: 76,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 68,
+                                                lineNumber: 75,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                            lineNumber: 67,
+                                            lineNumber: 74,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -734,12 +771,12 @@ function AboutPage() {
                                                                 className: "h-6 w-6 text-primary"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 100,
+                                                                lineNumber: 107,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 99,
+                                                            lineNumber: 106,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -749,7 +786,7 @@ function AboutPage() {
                                                                     children: "活動頻度"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 103,
+                                                                    lineNumber: 110,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -763,20 +800,20 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 106,
+                                                                                    lineNumber: 113,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "勉強会：週1〜2回"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 107,
+                                                                                    lineNumber: 114,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 105,
+                                                                            lineNumber: 112,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -787,20 +824,20 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 110,
+                                                                                    lineNumber: 117,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "CTF：不定期（大会に応じて）"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 111,
+                                                                                    lineNumber: 118,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 109,
+                                                                            lineNumber: 116,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -811,48 +848,48 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 114,
+                                                                                    lineNumber: 121,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "ハッカソン：月1〜2回"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 115,
+                                                                                    lineNumber: 122,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 113,
+                                                                            lineNumber: 120,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 104,
+                                                                    lineNumber: 111,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 102,
+                                                            lineNumber: 109,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                    lineNumber: 98,
+                                                    lineNumber: 105,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 104,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                            lineNumber: 96,
+                                            lineNumber: 103,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -868,12 +905,12 @@ function AboutPage() {
                                                                 className: "h-6 w-6 text-primary"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 127,
+                                                                lineNumber: 134,
                                                                 columnNumber: 23
                                                             }, this)
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 126,
+                                                            lineNumber: 133,
                                                             columnNumber: 21
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -883,7 +920,7 @@ function AboutPage() {
                                                                     children: "メンバー構成"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 130,
+                                                                    lineNumber: 137,
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -897,20 +934,20 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 133,
+                                                                                    lineNumber: 140,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "学部生・大学院生 約30名"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 134,
+                                                                                    lineNumber: 141,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 132,
+                                                                            lineNumber: 139,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -921,20 +958,20 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 137,
+                                                                                    lineNumber: 144,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "理系・文系問わず"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 138,
+                                                                                    lineNumber: 145,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 136,
+                                                                            lineNumber: 143,
                                                                             columnNumber: 25
                                                                         }, this),
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -945,54 +982,54 @@ function AboutPage() {
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 141,
+                                                                                    lineNumber: 148,
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                                     children: "初心者から上級者まで"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                                    lineNumber: 142,
+                                                                                    lineNumber: 149,
                                                                                     columnNumber: 27
                                                                                 }, this)
                                                                             ]
                                                                         }, void 0, true, {
                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                            lineNumber: 140,
+                                                                            lineNumber: 147,
                                                                             columnNumber: 25
                                                                         }, this)
                                                                     ]
                                                                 }, void 0, true, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 131,
+                                                                    lineNumber: 138,
                                                                     columnNumber: 23
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 129,
+                                                            lineNumber: 136,
                                                             columnNumber: 21
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                    lineNumber: 125,
+                                                    lineNumber: 132,
                                                     columnNumber: 19
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 124,
+                                                lineNumber: 131,
                                                 columnNumber: 17
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                            lineNumber: 123,
+                                            lineNumber: 130,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                    lineNumber: 49,
+                                    lineNumber: 56,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1008,14 +1045,14 @@ function AboutPage() {
                                                         children: "// "
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 154,
+                                                        lineNumber: 161,
                                                         columnNumber: 19
                                                     }, this),
                                                     "活動理念"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 153,
+                                                lineNumber: 160,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1029,37 +1066,12 @@ function AboutPage() {
                                                                 children: "技術力の向上"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 158,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                className: "text-muted-foreground text-sm leading-relaxed",
-                                                                children: "最新の技術トレンドをキャッチアップし、実践的なスキルを習得します。 理論だけでなく、手を動かして学ぶことを重視しています。"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 159,
-                                                                columnNumber: 21
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 157,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "border-l-2 border-primary/30 pl-4 py-2",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                                                className: "font-semibold text-foreground mb-1",
-                                                                children: "倫理的なハッキング"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                 lineNumber: 165,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                 className: "text-muted-foreground text-sm leading-relaxed",
-                                                                children: "セキュリティ技術は、社会を守るために使うべきものです。 私たちは常に倫理を重視し、建設的な目的のために技術を活用します。"
+                                                                children: "最新の技術トレンドをキャッチアップし、実践的なスキルを習得します。 理論だけでなく、手を動かして学ぶことを重視しています。"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                 lineNumber: 166,
@@ -1076,7 +1088,7 @@ function AboutPage() {
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                                                 className: "font-semibold text-foreground mb-1",
-                                                                children: "コミュニティ形成"
+                                                                children: "倫理的なハッキング"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                 lineNumber: 172,
@@ -1084,7 +1096,7 @@ function AboutPage() {
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                                 className: "text-muted-foreground text-sm leading-relaxed",
-                                                                children: "同じ志を持つ仲間と切磋琢磨し、共に成長する環境を作ります。 学年や専攻の垣根を超えた交流を大切にしています。"
+                                                                children: "セキュリティ技術は、社会を守るために使うべきものです。 私たちは常に倫理を重視し、建設的な目的のために技術を活用します。"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                 lineNumber: 173,
@@ -1095,22 +1107,47 @@ function AboutPage() {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                         lineNumber: 171,
                                                         columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "border-l-2 border-primary/30 pl-4 py-2",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                                                className: "font-semibold text-foreground mb-1",
+                                                                children: "コミュニティ形成"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                lineNumber: 179,
+                                                                columnNumber: 21
+                                                            }, this),
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                className: "text-muted-foreground text-sm leading-relaxed",
+                                                                children: "同じ志を持つ仲間と切磋琢磨し、共に成長する環境を作ります。 学年や専攻の垣根を超えた交流を大切にしています。"
+                                                            }, void 0, false, {
+                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                lineNumber: 180,
+                                                                columnNumber: 21
+                                                            }, this)
+                                                        ]
+                                                    }, void 0, true, {
+                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                        lineNumber: 178,
+                                                        columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 156,
+                                                lineNumber: 163,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                        lineNumber: 152,
+                                        lineNumber: 159,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                    lineNumber: 151,
+                                    lineNumber: 158,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1126,22 +1163,22 @@ function AboutPage() {
                                                         children: "// "
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 185,
+                                                        lineNumber: 192,
                                                         columnNumber: 19
                                                     }, this),
                                                     "入会について"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 184,
+                                                lineNumber: 191,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                 className: "text-muted-foreground leading-relaxed mb-6",
-                                                children: "東大Hacker同好会は、年間を通じて新規メンバーを募集しています。 プログラミング経験がなくても、学ぶ意欲があれば大歓迎です。"
+                                                children: "東大Hacker研究会は、年間を通じて新規メンバーを募集しています。 プログラミング経験がなくても、学ぶ意欲があれば大歓迎です。"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 187,
+                                                lineNumber: 194,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1152,7 +1189,7 @@ function AboutPage() {
                                                         children: "こんな人を歓迎します"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 192,
+                                                        lineNumber: 199,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1166,20 +1203,20 @@ function AboutPage() {
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 195,
+                                                                        lineNumber: 202,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "サイバーセキュリティに興味がある"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 196,
+                                                                        lineNumber: 203,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 194,
+                                                                lineNumber: 201,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1190,20 +1227,20 @@ function AboutPage() {
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 199,
+                                                                        lineNumber: 206,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "ハッキング技術を学びたい（倫理的な目的で）"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 200,
+                                                                        lineNumber: 207,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 198,
+                                                                lineNumber: 205,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1214,20 +1251,20 @@ function AboutPage() {
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 203,
+                                                                        lineNumber: 210,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "CTFやハッカソンに挑戦したい"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 204,
+                                                                        lineNumber: 211,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 202,
+                                                                lineNumber: 209,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1238,20 +1275,20 @@ function AboutPage() {
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 207,
+                                                                        lineNumber: 214,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "技術力を高めて、将来エンジニアとして活躍したい"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 208,
+                                                                        lineNumber: 215,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 206,
+                                                                lineNumber: 213,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -1262,43 +1299,43 @@ function AboutPage() {
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 211,
+                                                                        lineNumber: 218,
                                                                         columnNumber: 23
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                                                         children: "同じ志を持つ仲間と切磋琢磨したい"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                        lineNumber: 212,
+                                                                        lineNumber: 219,
                                                                         columnNumber: 23
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 210,
+                                                                lineNumber: 217,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 193,
+                                                        lineNumber: 200,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 191,
+                                                lineNumber: 198,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                        lineNumber: 183,
+                                        lineNumber: 190,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                    lineNumber: 182,
+                                    lineNumber: 189,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1315,12 +1352,12 @@ function AboutPage() {
                                                             className: "h-6 w-6 text-primary"
                                                         }, void 0, false, {
                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                            lineNumber: 223,
+                                                            lineNumber: 230,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 222,
+                                                        lineNumber: 229,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1331,20 +1368,20 @@ function AboutPage() {
                                                                 children: "// "
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 226,
+                                                                lineNumber: 233,
                                                                 columnNumber: 21
                                                             }, this),
                                                             "お問い合わせ"
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 225,
+                                                        lineNumber: 232,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 221,
+                                                lineNumber: 228,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1352,94 +1389,109 @@ function AboutPage() {
                                                 children: "活動に興味がある方、質問がある方は、お気軽にご連絡ください。見学も随時受け付けています。"
                                             }, void 0, false, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 229,
+                                                lineNumber: 236,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex flex-col sm:flex-row gap-4",
+                                                className: "flex flex-col gap-4",
                                                 children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "https://forms.gle/bUrTwYd9zCcD7LESA",
-                                                        target: "_blank",
-                                                        rel: "noopener noreferrer",
-                                                        className: "flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
-                                                                className: "h-5 w-5"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 239,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            "Slackに参加する"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 233,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "mailto:contact@todai-hacker.club",
-                                                        className: "flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$mail$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Mail$3e$__["Mail"], {
-                                                                className: "h-5 w-5"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 246,
-                                                                columnNumber: 21
-                                                            }, this),
-                                                            "contact@todai-hacker.club"
-                                                        ]
-                                                    }, void 0, true, {
-                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 242,
-                                                        columnNumber: 19
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                        href: "https://twitter.com/todai_hacker",
-                                                        target: "_blank",
-                                                        rel: "noopener noreferrer",
-                                                        className: "flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
-                                                                className: "h-5 w-5",
-                                                                fill: "currentColor",
-                                                                viewBox: "0 0 24 24",
-                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
-                                                                    d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex justify-center",
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                            href: "https://forms.gle/bUrTwYd9zCcD7LESA",
+                                                            target: "_blank",
+                                                            rel: "noopener noreferrer",
+                                                            className: "w-full sm:w-[calc(50%-0.5rem)] flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"], {
+                                                                    className: "h-5 w-5"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                    lineNumber: 256,
+                                                                    lineNumber: 247,
                                                                     columnNumber: 23
-                                                                }, this)
-                                                            }, void 0, false, {
+                                                                }, this),
+                                                                "Slackに参加する"
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                            lineNumber: 241,
+                                                            columnNumber: 21
+                                                        }, this)
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                        lineNumber: 240,
+                                                        columnNumber: 19
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                        className: "flex flex-col sm:flex-row gap-4",
+                                                        children: [
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                className: "flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg font-mono",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$mail$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Mail$3e$__["Mail"], {
+                                                                        className: "h-5 w-5"
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                        lineNumber: 253,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    "contact@todai-hacker.club"
+                                                                ]
+                                                            }, void 0, true, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                                lineNumber: 255,
+                                                                lineNumber: 252,
                                                                 columnNumber: 21
                                                             }, this),
-                                                            "@todai_hacker"
+                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                                href: "https://twitter.com/todai_hacker",
+                                                                target: "_blank",
+                                                                rel: "noopener noreferrer",
+                                                                className: "flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono",
+                                                                children: [
+                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
+                                                                        className: "h-5 w-5",
+                                                                        fill: "currentColor",
+                                                                        viewBox: "0 0 24 24",
+                                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+                                                                            d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                            lineNumber: 263,
+                                                                            columnNumber: 25
+                                                                        }, this)
+                                                                    }, void 0, false, {
+                                                                        fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                        lineNumber: 262,
+                                                                        columnNumber: 23
+                                                                    }, this),
+                                                                    "@todai_hacker"
+                                                                ]
+                                                            }, void 0, true, {
+                                                                fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
+                                                                lineNumber: 256,
+                                                                columnNumber: 21
+                                                            }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                        lineNumber: 249,
+                                                        lineNumber: 251,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                                lineNumber: 232,
+                                                lineNumber: 239,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                        lineNumber: 220,
+                                        lineNumber: 227,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
-                                    lineNumber: 219,
+                                    lineNumber: 226,
                                     columnNumber: 13
                                 }, this)
                             ]

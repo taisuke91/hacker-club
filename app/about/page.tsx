@@ -25,7 +25,7 @@ export default function AboutPage() {
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">サークル情報</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              東大Hacker同好会について、詳しくご紹介します
+              東大Hacker研究会について、詳しくご紹介します
             </p>
           </div>
 
@@ -33,10 +33,17 @@ export default function AboutPage() {
             <Card className="bg-card/50 border-border/50 backdrop-blur-sm">
               <CardContent className="p-8">
                 <h2 className="text-2xl font-bold mb-4 text-card-foreground">
-                  <span className="text-primary font-mono">// </span>東大Hacker同好会とは
+                  <span className="text-primary font-mono">// </span>東大Hacker研究会とは
                 </h2>
+                <div className="mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-sm">
+                  <ul className="space-y-1 text-muted-foreground">
+                    <li>団体名：東大Hacker研究会</li>
+                    <li>設立：2025年12月</li>
+                    <li>メールアドレス：contact@todai-hacker.club</li>
+                  </ul>
+                </div>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  東大Hacker同好会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。
+                  東大Hacker研究会は、サイバーセキュリティとハッキング技術に興味を持つ東京大学の学生が集まる技術サークルです。
                   「ハッカー」という言葉には、高度な技術力を持ち、創造的に問題を解決する人という本来の意味があります。
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
@@ -185,7 +192,7 @@ export default function AboutPage() {
                   <span className="text-primary font-mono">// </span>入会について
                 </h2>
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  東大Hacker同好会は、年間を通じて新規メンバーを募集しています。
+                  東大Hacker研究会は、年間を通じて新規メンバーを募集しています。
                   プログラミング経験がなくても、学ぶ意欲があれば大歓迎です。
                 </p>
                 <div className="bg-primary/5 border border-primary/20 rounded-lg p-6">
@@ -229,34 +236,35 @@ export default function AboutPage() {
                 <p className="text-muted-foreground mb-6 leading-relaxed">
                   活動に興味がある方、質問がある方は、お気軽にご連絡ください。見学も随時受け付けています。
                 </p>
-                <div className="flex flex-col sm:flex-row gap-4">
-                  <a
-                    href="https://forms.gle/bUrTwYd9zCcD7LESA"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
-                  >
-                    <MessageSquare className="h-5 w-5" />
-                    Slackに参加する
-                  </a>
-                  <a
-                    href="mailto:contact@todai-hacker.club"
-                    className="flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
-                  >
-                    <Mail className="h-5 w-5" />
-                    contact@todai-hacker.club
-                  </a>
-                  <a
-                    href="https://twitter.com/todai_hacker"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
-                  >
-                    <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
-                    </svg>
-                    @todai_hacker
-                  </a>
+                <div className="flex flex-col gap-4">
+                  <div className="flex justify-center">
+                    <a
+                      href="https://forms.gle/bUrTwYd9zCcD7LESA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="w-full sm:w-[calc(50%-0.5rem)] flex items-center justify-center gap-2 px-6 py-3 bg-primary text-primary-foreground rounded-lg hover:bg-primary/90 transition-colors font-mono"
+                    >
+                      <MessageSquare className="h-5 w-5" />
+                      Slackに参加する
+                    </a>
+                  </div>
+                  <div className="flex flex-col sm:flex-row gap-4">
+                    <div className="flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg font-mono">
+                      <Mail className="h-5 w-5" />
+                      contact@todai-hacker.club
+                    </div>
+                    <a
+                      href="https://twitter.com/todai_hacker"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex-1 flex items-center justify-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono"
+                    >
+                      <svg className="h-5 w-5" fill="currentColor" viewBox="0 0 24 24">
+                        <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+                      </svg>
+                      @todai_hacker
+                    </a>
+                  </div>
                 </div>
               </CardContent>
             </Card>
