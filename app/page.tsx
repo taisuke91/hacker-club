@@ -30,7 +30,7 @@ export default function Home() {
             <Link href="/about">
               <Button size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90 font-mono">
                 <Terminal className="mr-2 h-5 w-5" />
-                サークル紹介
+                サークル情報
               </Button>
             </Link>
             <Link href="/activities">
@@ -48,7 +48,7 @@ export default function Home() {
               href="https://forms.gle/bUrTwYd9zCcD7LESA"
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono text-sm"
+              className="flex items-center gap-2 px-6 py-3 border border-primary/30 text-foreground rounded-lg hover:bg-primary/10 transition-colors font-mono text-base"
             >
               <MessageSquare className="h-4 w-4" />
               Discordに参加する(入会する)
@@ -125,7 +125,7 @@ export default function Home() {
                   <div>
                     <h4 className="text-lg font-bold mb-2 text-card-foreground">活動費</h4>
                     <p className="text-2xl font-mono text-primary">¥0</p>
-                    <p className="text-sm text-muted-foreground mt-1">完全無料で参加可能</p>
+                    <p className="text-base text-muted-foreground mt-1">完全無料で参加可能</p>
                   </div>
                 </div>
               </CardContent>
@@ -141,11 +141,11 @@ export default function Home() {
                     <h4 className="text-lg font-bold mb-2 text-card-foreground">活動場所</h4>
                     <ul className="text-muted-foreground space-y-1">
                       <li className="flex items-center gap-2">
-                        <span className="text-primary font-mono text-xs">▸</span>
+                        <span className="text-primary font-mono text-base">▸</span>
                         学生会館
                       </li>
                       <li className="flex items-center gap-2">
-                        <span className="text-primary font-mono text-xs">▸</span>
+                        <span className="text-primary font-mono text-base">▸</span>
                         ビズリーチキャンパスカフェ
                       </li>
                     </ul>
@@ -204,7 +204,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="relative z-10 border-t border-border/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-6">
-          <p className="text-center text-muted-foreground text-sm font-mono">
+          <p className="text-center text-muted-foreground text-base font-mono">
             {"<>"} 東大Hacker研究会 | Tokyo University Hacker Club {"</>"}
           </p>
         </div>

@@ -21,7 +21,7 @@ export default function HackathonPage() {
           </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-              <span className="text-primary font-mono text-sm">{">"} Activities</span>
+              <span className="text-primary font-mono text-base">{">"} Activities</span>
             </div>
             <div className="flex items-center gap-4 mb-4">
               <div className="p-3 rounded-lg bg-primary/10">
@@ -59,7 +59,7 @@ export default function HackathonPage() {
                     <Lightbulb className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-3 text-card-foreground">アイデア創出</h3>
-                  <p className="text-muted-foreground text-sm leading-relaxed">
+                  <p className="text-muted-foreground text-base leading-relaxed">
                     社会課題の解決やユーザーニーズに応えるアイデアを、チームでブレインストーミング。
                     創造性を最大限に発揮します。
                   </p>
@@ -72,7 +72,7 @@ export default function HackathonPage() {
                     <Rocket className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-3 text-card-foreground">高速開発</h3>
-                  <p className="text-muted-foreground text-sm leading-relaxed">
+                  <p className="text-muted-foreground text-base leading-relaxed">
                     限られた時間の中で、MVPを完成させる。 最新の技術スタックを活用し、効率的に開発を進めます。
                   </p>
                 </CardContent>
@@ -84,7 +84,7 @@ export default function HackathonPage() {
                     <Award className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-3 text-card-foreground">プレゼン</h3>
-                  <p className="text-muted-foreground text-sm leading-relaxed">
+                  <p className="text-muted-foreground text-base leading-relaxed">
                     審査員や参加者の前でプロダクトを発表。 技術力だけでなく、伝える力も磨きます。
                   </p>
                 </CardContent>
@@ -99,20 +99,20 @@ export default function HackathonPage() {
                 <div className="space-y-4">
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">企業主催ハッカソン</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       Google、Microsoft、LINEなど大手IT企業が主催するハッカソンに参加。
                       企業の最新技術に触れ、実務に近い開発を経験できます。
                     </p>
                   </div>
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">学生向けハッカソン</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       JPHACKSや技育展など、学生が主役のハッカソンに積極的に参加。 他大学の学生との交流も深めています。
                     </p>
                   </div>
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">国際ハッカソン</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       海外で開催されるハッカソンにもオンライン・オフラインで参加。
                       グローバルな視点を養い、英語でのコミュニケーション能力も向上させます。
                     </p>
@@ -143,7 +143,7 @@ export default function HackathonPage() {
                   ].map((tech) => (
                     <div
                       key={tech}
-                      className="px-3 py-2 bg-primary/5 border border-primary/20 rounded text-sm text-foreground font-mono text-center"
+                      className="px-3 py-2 bg-primary/5 border border-primary/20 rounded text-base text-foreground font-mono text-center"
                     >
                       {tech}
                     </div>
@@ -152,7 +152,7 @@ export default function HackathonPage() {
               </CardContent>
             </Card>
 
-            <Card className="bg-card/50 border-border/50 backdrop-blur-sm">
+            {/* <Card className="bg-card/50 border-border/50 backdrop-blur-sm">
               <CardContent className="p-8">
                 <h2 className="text-2xl font-bold mb-4 text-card-foreground">
                   <span className="text-primary font-mono">// </span>過去の受賞歴
@@ -162,26 +162,26 @@ export default function HackathonPage() {
                     <Trophy className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-foreground">JPHACKS 2024 最優秀賞</p>
-                      <p className="text-sm">AI活用の新しいコミュニケーションツールを開発</p>
+                      <p className="text-base">AI活用の新しいコミュニケーションツールを開発</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3 bg-primary/5 p-3 rounded">
                     <Trophy className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-foreground">技育展 2023 企業賞</p>
-                      <p className="text-sm">ブロックチェーン技術を活用したプラットフォーム</p>
+                      <p className="text-base">ブロックチェーン技術を活用したプラットフォーム</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-3 bg-primary/5 p-3 rounded">
                     <Trophy className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                     <div>
                       <p className="font-semibold text-foreground">Google Cloud Hackathon 入賞</p>
-                      <p className="text-sm">クラウドネイティブなWebアプリケーション</p>
+                      <p className="text-base">クラウドネイティブなWebアプリケーション</p>
                     </div>
                   </div>
                 </div>
               </CardContent>
-            </Card>
+            </Card> */}
           </div>
         </div>
       </div>

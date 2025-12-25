@@ -21,7 +21,7 @@ export default function CybersecurityPage() {
           </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-              <span className="text-primary font-mono text-sm">{">"} Activities</span>
+              <span className="text-primary font-mono text-base">{">"} Activities</span>
             </div>
             <div className="flex items-center gap-4 mb-4">
               <div className="p-3 rounded-lg bg-primary/10">
@@ -58,21 +58,21 @@ export default function CybersecurityPage() {
                     <Lock className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-2 text-card-foreground">サイバーセキュリティ</h3>
-                  <ul className="text-muted-foreground text-sm space-y-2">
+                  <ul className="text-muted-foreground text-base space-y-2">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>脆弱性診断と対策</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>マルウェア解析</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>ネットワークセキュリティ</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>暗号技術</span>
                     </li>
                   </ul>
@@ -85,21 +85,21 @@ export default function CybersecurityPage() {
                     <Eye className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-2 text-card-foreground">情報戦</h3>
-                  <ul className="text-muted-foreground text-sm space-y-2">
+                  <ul className="text-muted-foreground text-base space-y-2">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>OSINT（公開情報収集）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>脅威インテリジェンス</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>サイバー攻撃の分析</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>デジタルフォレンジック</span>
                     </li>
                   </ul>
@@ -112,21 +112,21 @@ export default function CybersecurityPage() {
                     <Brain className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-2 text-card-foreground">認知戦</h3>
-                  <ul className="text-muted-foreground text-sm space-y-2">
+                  <ul className="text-muted-foreground text-base space-y-2">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>偽情報の検出と対策</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>ソーシャルエンジニアリング</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>影響力工作の分析</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>メディアリテラシー</span>
                     </li>
                   </ul>

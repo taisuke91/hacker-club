@@ -21,7 +21,7 @@ export default function AboutPage() {
           </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-              <span className="text-primary font-mono text-sm">{">"} About Us</span>
+              <span className="text-primary font-mono text-base">{">"} About Us</span>
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">サークル情報</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
@@ -35,7 +35,7 @@ export default function AboutPage() {
                 <h2 className="text-2xl font-bold mb-4 text-card-foreground">
                   <span className="text-primary font-mono">// </span>東大Hacker研究会とは
                 </h2>
-                <div className="mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-sm">
+                <div className="mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-base">
                   <ul className="space-y-1 text-muted-foreground">
                     <li>団体名：東大Hacker研究会</li>
                     <li>設立：2025年12月</li>
@@ -63,7 +63,7 @@ export default function AboutPage() {
                     <div>
                       <h3 className="text-lg font-bold mb-2 text-card-foreground">活動費</h3>
                       <p className="text-3xl font-mono text-primary mb-2">¥0</p>
-                      <p className="text-sm text-muted-foreground leading-relaxed">
+                      <p className="text-base text-muted-foreground leading-relaxed">
                         入会費・年会費などは一切かかりません。完全無料で参加できます。
                       </p>
                     </div>
@@ -81,17 +81,17 @@ export default function AboutPage() {
                       <h3 className="text-lg font-bold mb-2 text-card-foreground">活動場所</h3>
                       <ul className="space-y-2 text-muted-foreground">
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <div>
                             <p className="font-semibold text-foreground">学生会館</p>
-                            <p className="text-xs">定期勉強会・ミーティング</p>
+                            <p className="text-base">定期勉強会・ミーティング</p>
                           </div>
                         </li>
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <div>
                             <p className="font-semibold text-foreground">ビズリーチキャンパスカフェ</p>
-                            <p className="text-xs">ハッカソン・集中開発</p>
+                            <p className="text-base">ハッカソン・集中開発</p>
                           </div>
                         </li>
                       </ul>
@@ -108,17 +108,17 @@ export default function AboutPage() {
                     </div>
                     <div>
                       <h3 className="text-lg font-bold mb-2 text-card-foreground">活動頻度</h3>
-                      <ul className="space-y-2 text-muted-foreground text-sm">
+                      <ul className="space-y-2 text-muted-foreground text-base">
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <span>勉強会：週1〜2回</span>
                         </li>
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <span>CTF：不定期（大会に応じて）</span>
                         </li>
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <span>ハッカソン：月1〜2回</span>
                         </li>
                       </ul>
@@ -135,17 +135,17 @@ export default function AboutPage() {
                     </div>
                     <div>
                       <h3 className="text-lg font-bold mb-2 text-card-foreground">メンバー構成</h3>
-                      <ul className="space-y-2 text-muted-foreground text-sm">
+                      <ul className="space-y-2 text-muted-foreground text-base">
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
-                          <span>学部生・大学院生 約30名</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
+                          <span>学部生・大学院生 約10名</span>
                         </li>
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <span>理系・文系問わず</span>
                         </li>
                         <li className="flex items-start gap-2">
-                          <span className="text-primary font-mono text-xs mt-1">▸</span>
+                          <span className="text-primary font-mono text-base mt-1">▸</span>
                           <span>初心者から上級者まで</span>
                         </li>
                       </ul>
@@ -163,21 +163,21 @@ export default function AboutPage() {
                 <div className="space-y-4">
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">技術力の向上</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       最新の技術トレンドをキャッチアップし、実践的なスキルを習得します。
                       理論だけでなく、手を動かして学ぶことを重視しています。
                     </p>
                   </div>
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">倫理的なハッキング</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       セキュリティ技術は、社会を守るために使うべきものです。
                       私たちは常に倫理を重視し、建設的な目的のために技術を活用します。
                     </p>
                   </div>
                   <div className="border-l-2 border-primary/30 pl-4 py-2">
                     <h3 className="font-semibold text-foreground mb-1">コミュニティ形成</h3>
-                    <p className="text-muted-foreground text-sm leading-relaxed">
+                    <p className="text-muted-foreground text-base leading-relaxed">
                       同じ志を持つ仲間と切磋琢磨し、共に成長する環境を作ります。
                       学年や専攻の垣根を超えた交流を大切にしています。
                     </p>
@@ -197,25 +197,25 @@ export default function AboutPage() {
                 </p>
                 <div className="bg-primary/5 border border-primary/20 rounded-lg p-6">
                   <h3 className="font-semibold text-foreground mb-3">こんな人を歓迎します</h3>
-                  <ul className="space-y-2 text-muted-foreground text-sm">
+                  <ul className="space-y-2 text-muted-foreground text-base">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">✓</span>
+                      <span className="text-primary font-mono text-base mt-1">✓</span>
                       <span>サイバーセキュリティに興味がある</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">✓</span>
+                      <span className="text-primary font-mono text-base mt-1">✓</span>
                       <span>ハッキング技術を学びたい（倫理的な目的で）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">✓</span>
+                      <span className="text-primary font-mono text-base mt-1">✓</span>
                       <span>CTFやハッカソンに挑戦したい</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">✓</span>
+                      <span className="text-primary font-mono text-base mt-1">✓</span>
                       <span>技術力を高めて、将来エンジニアとして活躍したい</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">✓</span>
+                      <span className="text-primary font-mono text-base mt-1">✓</span>
                       <span>同じ志を持つ仲間と切磋琢磨したい</span>
                     </li>
                   </ul>

@@ -21,7 +21,7 @@ export default function CTFPage() {
           </Link>
           <div className="mb-8">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-              <span className="text-primary font-mono text-sm">{">"} Activities</span>
+              <span className="text-primary font-mono text-base">{">"} Activities</span>
             </div>
             <div className="flex items-center gap-4 mb-4">
               <div className="p-3 rounded-lg bg-primary/10">
@@ -59,25 +59,25 @@ export default function CTFPage() {
                     <Flag className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-3 text-card-foreground">CTF勉強会</h3>
-                  <ul className="text-muted-foreground text-sm space-y-2">
+                  <ul className="text-muted-foreground text-base space-y-2">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Web問題（SQL Injection, XSS等）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Pwn（バイナリ解析・エクスプロイト）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Crypto（暗号解読）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Forensics（証拠解析）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Reverse Engineering</span>
                     </li>
                   </ul>
@@ -90,25 +90,25 @@ export default function CTFPage() {
                     <Target className="h-6 w-6 text-primary" />
                   </div>
                   <h3 className="text-lg font-bold mb-3 text-card-foreground">参加大会</h3>
-                  <ul className="text-muted-foreground text-sm space-y-2">
+                  <ul className="text-muted-foreground text-base space-y-2">
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>SECCON（国内最大級のCTF）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>picoCTF（初心者向け）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>DEF CON CTF（世界最高峰）</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>Google CTF</span>
                     </li>
                     <li className="flex items-start gap-2">
-                      <span className="text-primary font-mono text-xs mt-1">▸</span>
+                      <span className="text-primary font-mono text-base mt-1">▸</span>
                       <span>その他国内外のオンラインCTF</span>
                     </li>
                   </ul>
@@ -151,19 +151,19 @@ export default function CTFPage() {
                 </h2>
                 <div className="space-y-3 text-muted-foreground">
                   <div className="flex items-start gap-3">
-                    <span className="text-primary font-mono text-sm mt-1">週1回</span>
+                    <span className="text-primary font-mono text-base mt-1">週1回</span>
                     <p className="leading-relaxed">
                       定期的なCTF勉強会を開催。過去問の解説や新しいテクニックの共有を行います。
                     </p>
                   </div>
                   <div className="flex items-start gap-3">
-                    <span className="text-primary font-mono text-sm mt-1">大会前</span>
+                    <span className="text-primary font-mono text-base mt-1">大会前</span>
                     <p className="leading-relaxed">
                       主要な大会の前には集中的な対策会を実施。チームでの連携を高めます。
                     </p>
                   </div>
                   <div className="flex items-start gap-3">
-                    <span className="text-primary font-mono text-sm mt-1">大会後</span>
+                    <span className="text-primary font-mono text-base mt-1">大会後</span>
                     <p className="leading-relaxed">
                       大会終了後はWrite-up会を開催。解けなかった問題の解法を学び、次に活かします。
                     </p>

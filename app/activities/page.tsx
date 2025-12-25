@@ -22,7 +22,7 @@ export default function ActivitiesPage() {
         <div className="max-w-6xl mx-auto">
           <div className="mb-12">
             <div className="inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5">
-              <span className="text-primary font-mono text-sm">{">"} Activities</span>
+              <span className="text-primary font-mono text-base">{">"} Activities</span>
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">活動内容</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
@@ -41,7 +41,7 @@ export default function ActivitiesPage() {
                   <p className="text-muted-foreground leading-relaxed mb-6">
                     サイバーセキュリティ、情報戦、認知戦についての最新技術を学ぶ定期勉強会を開催
                   </p>
-                  <div className="text-primary font-mono text-sm">
+                  <div className="text-primary font-mono text-base">
                     {">"} 詳しく見る
                   </div>
                 </CardContent>
@@ -58,7 +58,7 @@ export default function ActivitiesPage() {
                   <p className="text-muted-foreground leading-relaxed mb-6">
                     Capture The Flagの勉強会と大会出場を通じて、実践的なハッキングスキルを習得
                   </p>
-                  <div className="text-primary font-mono text-sm">
+                  <div className="text-primary font-mono text-base">
                     {">"} 詳しく見る
                   </div>
                 </CardContent>
@@ -75,7 +75,7 @@ export default function ActivitiesPage() {
                   <p className="text-muted-foreground leading-relaxed mb-6">
                     国内外のハッカソンに積極的に参加し、チームで革新的なプロダクトを開発
                   </p>
-                  <div className="text-primary font-mono text-sm">
+                  <div className="text-primary font-mono text-base">
                     {">"} 詳しく見る
                   </div>
                 </CardContent>

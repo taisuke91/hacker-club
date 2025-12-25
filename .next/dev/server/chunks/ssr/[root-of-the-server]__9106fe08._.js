@@ -415,7 +415,7 @@ function AboutPage() {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "inline-block mb-4 px-4 py-2 border border-primary/30 rounded-lg bg-primary/5",
                                     children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-primary font-mono text-sm",
+                                        className: "text-primary font-mono text-base",
                                         children: [
                                             ">",
                                             " About Us"
@@ -479,7 +479,7 @@ function AboutPage() {
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-sm",
+                                                className: "mb-4 p-4 bg-primary/5 border border-primary/20 rounded-lg font-mono text-base",
                                                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                                                     className: "space-y-1 text-muted-foreground",
                                                     children: [
@@ -585,7 +585,7 @@ function AboutPage() {
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                    className: "text-sm text-muted-foreground leading-relaxed",
+                                                                    className: "text-base text-muted-foreground leading-relaxed",
                                                                     children: "入会費・年会費などは一切かかりません。完全無料で参加できます。"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -652,7 +652,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -670,7 +670,7 @@ function AboutPage() {
                                                                                             columnNumber: 29
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                            className: "text-xs",
+                                                                                            className: "text-base",
                                                                                             children: "定期勉強会・ミーティング"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -693,7 +693,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -711,7 +711,7 @@ function AboutPage() {
                                                                                             columnNumber: 29
                                                                                         }, this),
                                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                                            className: "text-xs",
+                                                                                            className: "text-base",
                                                                                             children: "ハッカソン・集中開発"
                                                                                         }, void 0, false, {
                                                                                             fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -790,13 +790,13 @@ function AboutPage() {
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                                    className: "space-y-2 text-muted-foreground text-sm",
+                                                                    className: "space-y-2 text-muted-foreground text-base",
                                                                     children: [
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -820,7 +820,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -844,7 +844,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -924,13 +924,13 @@ function AboutPage() {
                                                                     columnNumber: 23
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                                    className: "space-y-2 text-muted-foreground text-sm",
+                                                                    className: "space-y-2 text-muted-foreground text-base",
                                                                     children: [
                                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -938,7 +938,7 @@ function AboutPage() {
                                                                                     columnNumber: 27
                                                                                 }, this),
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    children: "学部生・大学院生 約30名"
+                                                                                    children: "学部生・大学院生 約10名"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
                                                                                     lineNumber: 141,
@@ -954,7 +954,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -978,7 +978,7 @@ function AboutPage() {
                                                                             className: "flex items-start gap-2",
                                                                             children: [
                                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                                    className: "text-primary font-mono text-xs mt-1",
+                                                                                    className: "text-primary font-mono text-base mt-1",
                                                                                     children: "▸"
                                                                                 }, void 0, false, {
                                                                                     fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1070,7 +1070,7 @@ function AboutPage() {
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                className: "text-muted-foreground text-sm leading-relaxed",
+                                                                className: "text-muted-foreground text-base leading-relaxed",
                                                                 children: "最新の技術トレンドをキャッチアップし、実践的なスキルを習得します。 理論だけでなく、手を動かして学ぶことを重視しています。"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1095,7 +1095,7 @@ function AboutPage() {
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                className: "text-muted-foreground text-sm leading-relaxed",
+                                                                className: "text-muted-foreground text-base leading-relaxed",
                                                                 children: "セキュリティ技術は、社会を守るために使うべきものです。 私たちは常に倫理を重視し、建設的な目的のために技術を活用します。"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1120,7 +1120,7 @@ function AboutPage() {
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                                className: "text-muted-foreground text-sm leading-relaxed",
+                                                                className: "text-muted-foreground text-base leading-relaxed",
                                                                 children: "同じ志を持つ仲間と切磋琢磨し、共に成長する環境を作ります。 学年や専攻の垣根を超えた交流を大切にしています。"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1193,13 +1193,13 @@ function AboutPage() {
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
-                                                        className: "space-y-2 text-muted-foreground text-sm",
+                                                        className: "space-y-2 text-muted-foreground text-base",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                 className: "flex items-start gap-2",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-primary font-mono text-xs mt-1",
+                                                                        className: "text-primary font-mono text-base mt-1",
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1223,7 +1223,7 @@ function AboutPage() {
                                                                 className: "flex items-start gap-2",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-primary font-mono text-xs mt-1",
+                                                                        className: "text-primary font-mono text-base mt-1",
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1247,7 +1247,7 @@ function AboutPage() {
                                                                 className: "flex items-start gap-2",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-primary font-mono text-xs mt-1",
+                                                                        className: "text-primary font-mono text-base mt-1",
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1271,7 +1271,7 @@ function AboutPage() {
                                                                 className: "flex items-start gap-2",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-primary font-mono text-xs mt-1",
+                                                                        className: "text-primary font-mono text-base mt-1",
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
@@ -1295,7 +1295,7 @@ function AboutPage() {
                                                                 className: "flex items-start gap-2",
                                                                 children: [
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                                        className: "text-primary font-mono text-xs mt-1",
+                                                                        className: "text-primary font-mono text-base mt-1",
                                                                         children: "✓"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/Desktop/hacker-club/app/about/page.tsx",
