@@ -3,9 +3,22 @@ globalThis.__BUILD_MANIFEST = {
     "/_app": []
   },
   "devFiles": [],
-  "polyfillFiles": [],
+  "polyfillFiles": [
+    "static/chunks/2fc64_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
   "lowPriorityFiles": [],
-  "rootMainFiles": []
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_d668c728._.js",
+    "static/chunks/2fc64_next_dist_compiled_react-dom_6e365e4e._.js",
+    "static/chunks/2fc64_next_dist_compiled_react-server-dom-turbopack_7e40a421._.js",
+    "static/chunks/2fc64_next_dist_compiled_next-devtools_index_07a5de7d.js",
+    "static/chunks/2fc64_next_dist_compiled_fe595fd8._.js",
+    "static/chunks/2fc64_next_dist_client_e3b362f0._.js",
+    "static/chunks/2fc64_next_dist_30430c83._.js",
+    "static/chunks/2fc64_@swc_helpers_cjs_adf2a428._.js",
+    "static/chunks/Desktop_hacker-club_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_hacker-club_f0f12c77._.js"
+  ]
 };
 globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
 "/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
