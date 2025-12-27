@@ -73,7 +73,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f
 ;
 const metadata = {
     metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || (process.env.VERCEL_URL ? `https://${process.env.VERCEL_URL}` : "https://v0-tokyo-university-hacker-club.vercel.app")),
-    title: "東大Hacker研究会 | Tokyo University Hacker Club",
+    title: "東大Hacker同好会 | Tokyo University Hacker Club",
     description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
     generator: "v0.app",
     icons: {
@@ -81,7 +81,7 @@ const metadata = {
         apple: "/logo.png"
     },
     openGraph: {
-        title: "東大Hacker研究会 | Tokyo University Hacker Club",
+        title: "東大Hacker同好会 | Tokyo University Hacker Club",
         description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
         images: [
             "/logo.png"
@@ -90,7 +90,7 @@ const metadata = {
     },
     twitter: {
         card: "summary",
-        title: "東大Hacker研究会 | Tokyo University Hacker Club",
+        title: "東大Hacker同好会 | Tokyo University Hacker Club",
         description: "サイバーセキュリティ、情報戦、CTF、ハッカソンに挑戦する東京大学の技術サークル",
         images: [
             "/logo.png"

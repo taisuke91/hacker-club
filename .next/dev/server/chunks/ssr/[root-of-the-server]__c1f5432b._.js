@@ -250,7 +250,7 @@ function Header() {
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                 src: "/logo.png",
-                                alt: "東大Hacker研究会",
+                                alt: "東大Hacker同好会",
                                 width: 32,
                                 height: 32,
                                 className: "h-8 w-8"
@@ -261,7 +261,7 @@ function Header() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                                 className: "text-2xl font-mono font-bold text-primary",
-                                children: "東大Hacker研究会"
+                                children: "東大Hacker同好会"
                             }, void 0, false, {
                                 fileName: "[project]/Desktop/hacker-club/components/header.tsx",
                                 lineNumber: 12,
@@ -440,7 +440,7 @@ function ActivitiesPage() {
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Desktop$2f$hacker$2d$club$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         className: "text-xl text-muted-foreground leading-relaxed",
-                                        children: "東大Hacker研究会では、サイバーセキュリティ、CTF、ハッカソンを通じて実践的な技術を学びます"
+                                        children: "東大Hacker同好会では、サイバーセキュリティ、CTF、ハッカソンを通じて実践的な技術を学びます"
                                     }, void 0, false, {
                                         fileName: "[project]/Desktop/hacker-club/app/activities/page.tsx",
                                         lineNumber: 28,

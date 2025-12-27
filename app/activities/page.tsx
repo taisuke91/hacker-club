@@ -26,7 +26,7 @@ export default function ActivitiesPage() {
             </div>
             <h1 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">活動内容</h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              東大Hacker研究会では、サイバーセキュリティ、CTF、ハッカソンを通じて実践的な技術を学びます
+              東大Hacker同好会では、サイバーセキュリティ、CTF、ハッカソンを通じて実践的な技術を学びます
             </p>
           </div>
 

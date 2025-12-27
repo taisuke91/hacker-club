@@ -205,7 +205,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-border/50 backdrop-blur-sm">
         <div className="container mx-auto px-4 py-6">
           <p className="text-center text-muted-foreground text-base font-mono">
-            {"<>"} 東大Hacker研究会 | Tokyo University Hacker Club {"</>"}
+            {"<>"} 東大Hacker同好会 | Tokyo University Hacker Club {"</>"}
           </p>
         </div>
       </footer>

@@ -8,8 +8,8 @@ export function Header() {
       <div className="container mx-auto px-4 py-6">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
-            <Image src="/logo.png" alt="東大Hacker研究会" width={32} height={32} className="h-8 w-8" />
-            <h1 className="text-2xl font-mono font-bold text-primary">東大Hacker研究会</h1>
+            <Image src="/logo.png" alt="東大Hacker同好会" width={32} height={32} className="h-8 w-8" />
+            <h1 className="text-2xl font-mono font-bold text-primary">東大Hacker同好会</h1>
           </Link>
           <nav className="hidden md:flex items-center gap-6">
             <Link
